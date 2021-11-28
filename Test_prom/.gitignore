@@ -1,0 +1,35 @@
+.idea
+.python-version
+.cache
+.pytest_cache
+.coverage
+.coverage.*
+coverage.xml
+.ropeproject
+.project
+.settings
+reports
+geckodriver.log
+
+*.pyc
+*.egg-info
+
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
